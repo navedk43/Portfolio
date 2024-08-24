@@ -1,4 +1,7 @@
-# My Portfolio
+# Naved Khan - Portfolio
+
+This portfolio showcases my journey as a full-stack developer, featuring projects that highlight my expertise in the MERN stack, along with other technologies I've explored. Each project is a testament to my problem-solving skills and commitment to creating impactful, user-friendly applications. The portfolio is designed to provide a clear, organized view of my work, allowing visitors to easily navigate through the projects and learn about the specific challenges and solutions involved in each one.
+
 
 Welcome to my portfolio! This project showcases my skills, projects, and experience as a dedicated MERN Stack Developer.
 
